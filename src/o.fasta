@@ -1,0 +1,1182 @@
+25
+LOCUS       HQ621368                 399 bp    DNA     linear   PLN 26-FEB-2012
+DEFINITION  Opuntia decumbens voucher Martinez & Eggli 146a (ZSS) ribosomal
+            protein L16 (rpl16) gene, partial cds; chloroplast.
+ACCESSION   HQ621368
+VERSION     HQ621368.1
+KEYWORDS    .
+SOURCE      chloroplast Opuntia decumbens
+  ORGANISM  Opuntia decumbens
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Opuntia.
+REFERENCE   1  (bases 1 to 399)
+  AUTHORS   Arakaki,M., Christin,P.A., Nyffeler,R., Lendel,A., Eggli,U.,
+            Ogburn,R.M., Spriggs,E., Moore,M.J. and Edwards,E.J.
+  TITLE     Contemporaneous and recent radiations of the world's major
+            succulent plant lineages
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 108 (20), 8379-8384 (2011)
+   PUBMED   21536881
+REFERENCE   2  (bases 1 to 399)
+  AUTHORS   Arakaki,M., Christin,P.-A., Nyffeler,R., Eggli,U., Ogburn,R.M.,
+            Spriggs,E., Moore,M.J. and Edwards,E.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-NOV-2010) Department of Ecology and Evolutionary
+            Biology, Brown University, 80 Waterman St., Providence, RI 02912,
+            USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: MIRA V3rc4; Geneious v. 4.8
+            Sequencing Technology :: 454
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..399
+                     /organism="Opuntia decumbens"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Martinez & Eggli 146a (ZSS)"
+                     /db_xref="taxon:867482"
+                     /tissue_type="stem"
+                     /note="authority: Opuntia decumbens Salm-Dyck"
+     gene            <1..>399
+                     /gene="rpl16"
+     CDS             <1..>399
+                     /gene="rpl16"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribosomal protein L16"
+                     /protein_id="AFB70658.1"
+                     /translation="NPKRTRFCKQHRGRMKGISYRGNRICFGRYALQALEPAWITSRQ
+                     IEAGRRAMTRNARRGGKIWVRIFPDKPVTVKSAESRMGSGKGSHLYWVVVVKPGRILY
+                     EISGVSENIARRAISIAASKMPVRTQFIISG"
+ORIGIN      
+        1 aaccccaaaa gaaccagatt ctgtaaacaa catagaggaa gaatgaaggg aatatcttat
+       61 cgggggaatc gtatttgttt cggaagatat gctcttcagg cacttgagcc tgcttggatc
+      121 acgtctagac aaatagaagc aggtcggcga gcaatgacgc gaaatgcacg ccgcggtgga
+      181 aaaatatggg tacgtatatt tccagacaaa ccagttacag taaaatctgc ggaaagccgt
+      241 atgggttcgg ggaaaggatc ccacctatat tgggtagttg ttgtcaaacc cggtcgaata
+      301 ctttatgaaa taagcggagt atcagaaaat atagcccgaa gggctatctc gatagcggca
+      361 tctaaaatgc ctgtacgaac tcaattcatt atttcagga
+//
+
+LOCUS       HM041482                1197 bp    DNA     linear   PLN 03-MAY-2011
+DEFINITION  Cylindropuntia tunicata ribosomal protein L16-like (rpl16) gene,
+            partial sequence; chloroplast.
+ACCESSION   HM041482
+VERSION     HM041482.1
+KEYWORDS    .
+SOURCE      chloroplast Cylindropuntia tunicata
+  ORGANISM  Cylindropuntia tunicata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Cylindropuntia.
+REFERENCE   1  (bases 1 to 1197)
+  AUTHORS   Hernandez-Hernandez,T., Hernandez,H.M., De-Nova,J.A., Puente,R.,
+            Eguiarte,L.E. and Magallon,S.
+  TITLE     Phylogenetic relationships and evolution of growth form in
+            Cactaceae (Caryophyllales, Eudicotyledoneae)
+  JOURNAL   Am. J. Bot. 98 (1), 44-61 (2011)
+   PUBMED   21613084
+REFERENCE   2  (bases 1 to 1197)
+  AUTHORS   Hernandez-Hernandez,T., Magallon,S.A., Hernandez,H.M., De-Nova,A.,
+            Puente,R. and Eguiarte,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAR-2010) Departamento de Botanica, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, 3er Circuito de
+            Ciudad Universitaria, Ciudad Universitaria, Coyoacan, Distrito
+            Federal C.P. 04510, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1197
+                     /organism="Cylindropuntia tunicata"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:766221"
+     gene            <1..>1197
+                     /gene="rpl16"
+     misc_feature    <1094..>1197
+                     /gene="rpl16"
+                     /note="similar to ribosomal protein L16"
+ORIGIN      
+        1 gtgatatacg aaacagtaag agcccatagt atgaagtatg aactaataac tatagaacta
+       61 ataaccaact catcgcatca cattatctgg atccaaagaa gcagtcaaga taggatattt
+      121 tggtcctatc attgcagcaa ctgaattttt tttttcataa acaagaaatc gaatgagttg
+      181 tcaagcaaaa gaaaaaaaaa aaaagaaaaa tatacnttaa aggaggggga tgcggataaa
+      241 tggaaaggcg aaagaaagaa aaaaatgaat ctaaatgata tacgattcca ctatgtaagg
+      301 tctttgaatc atatcataaa agacaatgta ataaagcatg aatacagatt cacacataat
+      361 tatctgatat gaatctattc atagaaaaaa gaaaaaagta agagcctccg gccaataaag
+      421 actaagaggg gttggctcaa aaacaaagtt cattaagagc tcccattgta gaattcagac
+      481 ctaatcatta atcaagaagc gatgggaacg atgtaatcca tgaatacaga agattcaatt
+      541 gaaaaaagaa tcctaatgat tcattgggga ggatggcgga acgaaccaga gaccaattca
+      601 tctattctga aaagtgataa actaatccta taaaactaaa atagatattg aaagagtaaa
+      661 tattcgcccg cgaaaattcc ttttttatta aattgctcat attttatttt agcaatgcaa
+      721 tctaataaaa tatatctata caaaaaaaca tagacaaact atatatataa tatttcaaat
+      781 tcccttatat atccaaatat aaaaatatct aataaattag atgaatatca aagaatctat
+      841 tgatttagtg tattattaaa tgtatatctt aattcaatat tattattcta ttcattttta
+      901 ttcattttca aatttataat atattaatct atatattaat ttagaattct attctaattc
+      961 gaattcaatt tttaaatatt cattcatatt caattaaaat tgaaattttt tcattcgcga
+     1021 ggagccggat gagaagaaac tctcatgtcc ggttctgtag tagagatgga attaagaaaa
+     1081 aaccatcaac tataacccca aaagaaccag attctgtaaa caacatagag gaagaatgaa
+     1141 gggaatatct tatcggggga atcgtatttg tttcggaaaa tatgctctca ggcacga
+//
+
+LOCUS       HM041481                1200 bp    DNA     linear   PLN 03-MAY-2011
+DEFINITION  Opuntia palmadora ribosomal protein L16-like (rpl16) gene, partial
+            sequence; chloroplast.
+ACCESSION   HM041481
+VERSION     HM041481.1
+KEYWORDS    .
+SOURCE      chloroplast Opuntia palmadora
+  ORGANISM  Opuntia palmadora
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Opuntia.
+REFERENCE   1  (bases 1 to 1200)
+  AUTHORS   Hernandez-Hernandez,T., Hernandez,H.M., De-Nova,J.A., Puente,R.,
+            Eguiarte,L.E. and Magallon,S.
+  TITLE     Phylogenetic relationships and evolution of growth form in
+            Cactaceae (Caryophyllales, Eudicotyledoneae)
+  JOURNAL   Am. J. Bot. 98 (1), 44-61 (2011)
+   PUBMED   21613084
+REFERENCE   2  (bases 1 to 1200)
+  AUTHORS   Hernandez-Hernandez,T., Magallon,S.A., Hernandez,H.M., De-Nova,A.,
+            Puente,R. and Eguiarte,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAR-2010) Departamento de Botanica, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, 3er Circuito de
+            Ciudad Universitaria, Ciudad Universitaria, Coyoacan, Distrito
+            Federal C.P. 04510, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1200
+                     /organism="Opuntia palmadora"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1001118"
+     gene            <1..>1200
+                     /gene="rpl16"
+     misc_feature    <1098..>1200
+                     /gene="rpl16"
+                     /note="similar to ribosomal protein L16"
+ORIGIN      
+        1 tgatatacga aaagtaagag cccatagtat gaagtatgaa ctaataacta tagaactaat
+       61 aaccaactca tcgcatcaca ttatctggat ccaaagaagc agtcaagata ggatattttg
+      121 gtcctatcat tgcagcaact gaattttttt ttcataaaca agaaatcaaa tgagttgtca
+      181 agcaaaagaa aaaaaaaaga aaaatatacn ttaaaggagg gggatgcgga taaatggaaa
+      241 ggcgaaagaa agaaaaaaat gaatctaaat gatatacgat tccactatgt aaggtctttg
+      301 aatcatatca taaaagacaa tgtaataaag catgaataca gattcacaca taattatctg
+      361 atatgaatct attcatagaa aaaagaaaaa agtaagagcc tccgggccaa taaagactaa
+      421 gagggttggg ctcaagaaca aagttcatta agagctccat tgtagaattc agacctaatc
+      481 attaatcaag aagcgatggg aacgatgtaa tccatgaata cagaagattc aattgaaaaa
+      541 gaatcctaat gattcattgg gaaggatggc ggaacgaacc agagaccaat tcatctattc
+      601 tgaaaagtga taaactaatc ctataaaact aaaatagata ttgaaagagt aaatattcgc
+      661 ccgcgaaaat tcctttttta ttaaattgct cacattttat tttagcaatg caatctaata
+      721 aaatatatct atacaaaaaa atatagacaa actatatata taatatattt caaatttcct
+      781 tatatatcct aatataaaaa tatctaataa attagatgaa tatcaaagaa tctattgatt
+      841 tagtgtatta ttaaatgtat atcttaattc aatattatta ttctattcat ttttattatt
+      901 catttttatt cattttcaaa tttagaatat attaatctat atattaattt agaattctat
+      961 tctaattcga attcaatttt taaatattca tattcaatta aaattgaaat tttttcattc
+     1021 gcgaggagcc ggatgagaag aaactctcac gtccggttct gtagtagagg tggaattaag
+     1081 aaaaaaccat caactataac cccaaaagaa ccagattctg taaacaacat agaggaagaa
+     1141 tgaagggaat atcttatcgg gggaatcgta tttgtttcgg aagatatgct ctcagcacga
+//
+
+LOCUS       HM041480                1153 bp    DNA     linear   PLN 03-MAY-2011
+DEFINITION  Opuntia microdasys ribosomal protein L16-like (rpl16) gene, partial
+            sequence; chloroplast.
+ACCESSION   HM041480
+VERSION     HM041480.1
+KEYWORDS    .
+SOURCE      chloroplast Opuntia microdasys
+  ORGANISM  Opuntia microdasys
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Opuntia.
+REFERENCE   1  (bases 1 to 1153)
+  AUTHORS   Hernandez-Hernandez,T., Hernandez,H.M., De-Nova,J.A., Puente,R.,
+            Eguiarte,L.E. and Magallon,S.
+  TITLE     Phylogenetic relationships and evolution of growth form in
+            Cactaceae (Caryophyllales, Eudicotyledoneae)
+  JOURNAL   Am. J. Bot. 98 (1), 44-61 (2011)
+   PUBMED   21613084
+REFERENCE   2  (bases 1 to 1153)
+  AUTHORS   Hernandez-Hernandez,T., Magallon,S.A., Hernandez,H.M., De-Nova,A.,
+            Puente,R. and Eguiarte,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAR-2010) Departamento de Botanica, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, 3er Circuito de
+            Ciudad Universitaria, Ciudad Universitaria, Coyoacan, Distrito
+            Federal C.P. 04510, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1153
+                     /organism="Opuntia microdasys"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:169217"
+     gene            <1..>1153
+                     /gene="rpl16"
+     misc_feature    <1079..>1153
+                     /gene="rpl16"
+                     /note="similar to ribosomal protein L16"
+ORIGIN      
+        1 gcccatagta tgaagtatga actaataact atagaactaa taaccaactc atcgcatcac
+       61 attatctgga tccaaagaag cagtcaagat aggatatttt ggtcctatca ttgcagcaac
+      121 tgaatttttt ttttcataaa caagaaatca aatgagttgt caagcaaaag aaaaaaaaaa
+      181 aaaaaaatat actttaaggg ggggggatgg ggataaaggg aaaggggaaa aaaaaaaaaa
+      241 aatgaatcta aatgatatac aattccacta tgaaaggtct ttgaatcata tcaaaaaaaa
+      301 caatgtaata aagcaggaat acagattccc acataattat ctgatatgaa tcttttcata
+      361 aaaaaaaaaa aaaagtaaga gcctccggcc aataaagact aagagggttg gctcaagaac
+      421 aaagttcatt aagggctcca ttgtagaatt cagacctaat cattaatcaa gaggcgatgg
+      481 gaacgatgta atccatgaat acagaagatt caattgaaaa agaatcctaa tgattcattg
+      541 ggaaggatgg cggaacgaac cagagaccaa ttcatctatt ctgaaaagtg aaaaactaat
+      601 cctataaaac taaaatagat attgaaagag taaatattcg cccgcgaaaa ttcctttttt
+      661 attaaattgc tcacatttta ttttagcaat gcaatctaat aaaatatatc tatacaaaaa
+      721 aatatagaca aactatatat ataatatatt tcaaatttcc ttatatatcc taatataaaa
+      781 atatctaata aattagatga atatcaaaga atctattgat ttagtgtatt attaaatgta
+      841 tatcttaatt caatattatt attctattca tttttattat tcatttttat tcattttcaa
+      901 atttagaata tattaatcta tatattaatt tataattcta ttctaattcg aattcaattt
+      961 ttaaatattc atattcaatt aaaattgaaa ttttttcatt cgcgaggagc cggatgagaa
+     1021 gaaactctca cgtccggttc tgtagtagag gtggaattaa gaaaaaacca tcaactataa
+     1081 ccccaaaaga accagattct gtaaacaaca tagaggaaga atgaagggaa tatcttatcg
+     1141 ggggatatcg tat
+//
+
+LOCUS       HM041479                1197 bp    DNA     linear   PLN 03-MAY-2011
+DEFINITION  Opuntia megasperma ribosomal protein L16-like (rpl16) gene, partial
+            sequence; chloroplast.
+ACCESSION   HM041479
+VERSION     HM041479.1
+KEYWORDS    .
+SOURCE      chloroplast Opuntia megasperma
+  ORGANISM  Opuntia megasperma
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Opuntia.
+REFERENCE   1  (bases 1 to 1197)
+  AUTHORS   Hernandez-Hernandez,T., Hernandez,H.M., De-Nova,J.A., Puente,R.,
+            Eguiarte,L.E. and Magallon,S.
+  TITLE     Phylogenetic relationships and evolution of growth form in
+            Cactaceae (Caryophyllales, Eudicotyledoneae)
+  JOURNAL   Am. J. Bot. 98 (1), 44-61 (2011)
+   PUBMED   21613084
+REFERENCE   2  (bases 1 to 1197)
+  AUTHORS   Hernandez-Hernandez,T., Magallon,S.A., Hernandez,H.M., De-Nova,A.,
+            Puente,R. and Eguiarte,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAR-2010) Departamento de Botanica, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, 3er Circuito de
+            Ciudad Universitaria, Ciudad Universitaria, Coyoacan, Distrito
+            Federal C.P. 04510, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1197
+                     /organism="Opuntia megasperma"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1001117"
+     gene            <1..>1197
+                     /gene="rpl16"
+     misc_feature    <1098..>1197
+                     /gene="rpl16"
+                     /note="similar to ribosomal protein L16"
+ORIGIN      
+        1 gatatacgaa aagtaagagc ccatagtatg aagtatgaac taataactat agaactaata
+       61 accaactcat cgcatcacat tatccggatc caaagaagca gtcaagatag gatattttgg
+      121 tcctatcatt gcagcaactg aatttttttt tcataaacaa gaaatcaaat gagttgtcaa
+      181 gcaaaagaaa aaaaaaaaag aaaaatatac tttaaaggag ggggatgcgg ataaatggaa
+      241 aggcgaaaga aagaaaaaaa tgaatctaaa tgatatacga ttccnctatg taaggtcttt
+      301 gaatcatatc ataaaagaca atgtaataaa gcatgaatac agattcacac ataattatct
+      361 gatatgaatc tattcataga aaaaagaaaa aagtaagagc ctccgggcca ataaagacta
+      421 agagggttgg ctcaagaaca aagttcatta agagctccat tgtagaattc agacctaatc
+      481 attaatcaag aagcgatggg aacgatgtaa tccatgaata cagaagattc aattgaaaaa
+      541 gaatcctaat gattcattgg gaaggatggc ggaacgaacc agagaccaat tcatctattc
+      601 tgaaaagtga taaactaatc ctataaaact aaaatagata ttgaaagagt aaatattcgc
+      661 ccgcgaaaat tcctttttta ttaaattgct cacattttat tttagcaatg caatctaata
+      721 aaatatatct atacaaaaaa atatagacaa actatatata taatatattt caaatttcct
+      781 tatatatcct aatataaaaa tatctaataa attagatgaa tatcaaagaa tctattgatt
+      841 tagtgtatta ttaaatgtat atcttaattc aatattttta ttctattcat ttttattatt
+      901 catttttatt cattttcaaa tttagaatat attaatctat atattaattt agaattctat
+      961 tctaattcga attcaatttt taaatattca tattcaatta aaattgaaat tttttcattc
+     1021 gcgaggagcc ggatgagaag aaactctcac gtccggttct gtagtagagg tggaattaag
+     1081 aaaaaaccat caactataac cccaaaagaa ccagattctg taaacaacat agaggaagaa
+     1141 tgaagggaat atcttatcgg gggaatcgta tttgtttcgg aagatatgct ctcagca
+//
+
+LOCUS       HM041478                1187 bp    DNA     linear   PLN 03-MAY-2011
+DEFINITION  Opuntia macbridei ribosomal protein L16-like (rpl16) gene, partial
+            sequence; chloroplast.
+ACCESSION   HM041478
+VERSION     HM041478.1
+KEYWORDS    .
+SOURCE      chloroplast Opuntia macbridei
+  ORGANISM  Opuntia macbridei
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Opuntia.
+REFERENCE   1  (bases 1 to 1187)
+  AUTHORS   Hernandez-Hernandez,T., Hernandez,H.M., De-Nova,J.A., Puente,R.,
+            Eguiarte,L.E. and Magallon,S.
+  TITLE     Phylogenetic relationships and evolution of growth form in
+            Cactaceae (Caryophyllales, Eudicotyledoneae)
+  JOURNAL   Am. J. Bot. 98 (1), 44-61 (2011)
+   PUBMED   21613084
+REFERENCE   2  (bases 1 to 1187)
+  AUTHORS   Hernandez-Hernandez,T., Magallon,S.A., Hernandez,H.M., De-Nova,A.,
+            Puente,R. and Eguiarte,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAR-2010) Departamento de Botanica, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, 3er Circuito de
+            Ciudad Universitaria, Ciudad Universitaria, Coyoacan, Distrito
+            Federal C.P. 04510, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1187
+                     /organism="Opuntia macbridei"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1001116"
+     gene            <1..>1187
+                     /gene="rpl16"
+     misc_feature    <1090..>1187
+                     /gene="rpl16"
+                     /note="similar to ribosomal protein L16"
+ORIGIN      
+        1 aaaagtaaga gcccatagta tgaagtatga actaataact atagaactaa taaccaactc
+       61 atcgcatcac attatctgga tccaaagaag cagtcaagat aggatatttt ggtcctatca
+      121 ttgcagcaac tgaatttttt tttcataaac aagaaatcaa atgagttgtc aagcaaaaga
+      181 aaaaaaaaaa agaaaaatat acattaaagg agggggatgc ggataaatgg aaaggcgaaa
+      241 gaaagaaaaa aatgaatcta aatgatatac gattccacta tgtaaggtct ttgaatcata
+      301 tcataaaaga caatgtaata aagcatgaat acagattcac acataattat ctgatatgaa
+      361 tctattcata gaaaaaagaa aaaagtaaga gcctccggcc aataaagact aagagggttg
+      421 gctcaagaac aaagttcatt aagggctcca tttgtagaat tcagacctaa tcattaatca
+      481 agaagcgatg ggaacgatgt aattccatga atacagaaga ttcaattgaa aaagatccta
+      541 atgattcatt gggaaggatg gcggacgaac cagagaccaa ttcatctatt ctgaaaagtg
+      601 ataaactaat cctataaaac taaaatagat attgaaagag taaatattcg cccgcgaaaa
+      661 ttcctttttt attaaattgc tcacatttta ttttagcaat gcaatctaat aaaatatatc
+      721 tatacaaaaa aaatatagac aaactatata tataatatat ttcaaatttc cttatatatc
+      781 ctaatataaa aatatctaat aatttagatg aatatcaaag aatctattga tttagtgtat
+      841 tattaaatgt atatcttaat tcaatattat tattctattc atttttatta ttcattttta
+      901 ttcattttca aatttagaat atattaatct atatattaat ttagaattct attctaattc
+      961 gaattcaatt tttaaatatt catattcaat taaaattgaa attttttcat tcgcgaggag
+     1021 ccggatgaga agaaactctc acgtccggtt ctgtagtaga ggtggaatta agaaaaaacc
+     1081 atcaactata accccaaaag aaccagattc tgtaaacaac atagaggaag aatgaaggga
+     1141 atatcttatc gggggaatcg tatttgtttc ggaagatatg ctctcag
+//
+
+LOCUS       HM041477                1197 bp    DNA     linear   PLN 03-MAY-2011
+DEFINITION  Cylindropuntia leptocaulis ribosomal protein L16-like (rpl16) gene,
+            partial sequence; chloroplast.
+ACCESSION   HM041477
+VERSION     HM041477.1
+KEYWORDS    .
+SOURCE      chloroplast Cylindropuntia leptocaulis
+  ORGANISM  Cylindropuntia leptocaulis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Cylindropuntia.
+REFERENCE   1  (bases 1 to 1197)
+  AUTHORS   Hernandez-Hernandez,T., Hernandez,H.M., De-Nova,J.A., Puente,R.,
+            Eguiarte,L.E. and Magallon,S.
+  TITLE     Phylogenetic relationships and evolution of growth form in
+            Cactaceae (Caryophyllales, Eudicotyledoneae)
+  JOURNAL   Am. J. Bot. 98 (1), 44-61 (2011)
+   PUBMED   21613084
+REFERENCE   2  (bases 1 to 1197)
+  AUTHORS   Hernandez-Hernandez,T., Magallon,S.A., Hernandez,H.M., De-Nova,A.,
+            Puente,R. and Eguiarte,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAR-2010) Departamento de Botanica, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, 3er Circuito de
+            Ciudad Universitaria, Ciudad Universitaria, Coyoacan, Distrito
+            Federal C.P. 04510, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1197
+                     /organism="Cylindropuntia leptocaulis"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:866983"
+     gene            <1..>1197
+                     /gene="rpl16"
+     misc_feature    <1096..>1197
+                     /gene="rpl16"
+                     /note="similar to ribosomal protein L16"
+ORIGIN      
+        1 ttgtgngnct cctgaagagt aggagcccct agtatgaagt atgaactaat aactatagaa
+       61 ctaataacca actcatcgca tcacattatc cggatccaaa aaagcagtca agataggata
+      121 ttttggtcct atcattgcag caactgaatt ttttttttca taaacaagaa atcgaatgag
+      181 ttgtcaagca aaagaaaaaa aaagaaaaat atactttaaa ggagggggat gcggataaat
+      241 ggaaaggcga aagaaagaaa aaaatgaatc taaatgatat aggattcccc tatgtaaggt
+      301 ctttgaatca tatcataaaa gacaatgtaa taaagcatga atacagattc ccacataatt
+      361 atctgatatg aatctattcc tagaaaaaag aaaaaagtaa gagcctccgg ccaataaaga
+      421 ctaagagggt tggctcaaga acaaagttca ttaaaagctc ccttgtagaa ttcagaccta
+      481 atcnttaatc aagaagcgat gggaacgatg taatccctga atacagaaga ttcaattgaa
+      541 aaagaatcct aatgattcat tgggaaggat ggcggaacga accagagacc aattcatcta
+      601 ttctgaaaag tgataaacta atcctataaa actaaaatag atattgaaag agtaaatatt
+      661 cgcccgcgaa atttcctttt ttattaaatt gctcatattt ttttttagca atgcaatcta
+      721 ataaaatata tctctacaaa aaaacataga caaactatat atatatatat atataatatt
+      781 tcaaattccc ttatatatcc aaatataaaa atatctaata aattagatga atatcaaaga
+      841 atctattgat ttagtgtatt attaaatgta tatcttaatt caatattatt attctattca
+      901 tttttattca ttttcaaatt tataatatat taatctatat attaatatag aattctattc
+      961 taattcgaat tcaattttta aatattcata ttcaattaaa attgaaattt tttcattcgc
+     1021 gaggagccgg atgagaagaa actctcatgt ccggttctgt agtagagatg gaattaagaa
+     1081 aaaaccatca actataaccc caaaagaacc ggattctgta aacaacatag aggaagaatg
+     1141 aagggaatat cttgtcgggg gaatcgatnn gtncggaant natgntcgcn gcgcgcc
+//
+
+LOCUS       HM041476                1205 bp    DNA     linear   PLN 03-MAY-2011
+DEFINITION  Opuntia lasiacantha ribosomal protein L16-like (rpl16) gene,
+            partial sequence; chloroplast.
+ACCESSION   HM041476
+VERSION     HM041476.1
+KEYWORDS    .
+SOURCE      chloroplast Opuntia lasiacantha
+  ORGANISM  Opuntia lasiacantha
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Opuntia.
+REFERENCE   1  (bases 1 to 1205)
+  AUTHORS   Hernandez-Hernandez,T., Hernandez,H.M., De-Nova,J.A., Puente,R.,
+            Eguiarte,L.E. and Magallon,S.
+  TITLE     Phylogenetic relationships and evolution of growth form in
+            Cactaceae (Caryophyllales, Eudicotyledoneae)
+  JOURNAL   Am. J. Bot. 98 (1), 44-61 (2011)
+   PUBMED   21613084
+REFERENCE   2  (bases 1 to 1205)
+  AUTHORS   Hernandez-Hernandez,T., Magallon,S.A., Hernandez,H.M., De-Nova,A.,
+            Puente,R. and Eguiarte,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAR-2010) Departamento de Botanica, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, 3er Circuito de
+            Ciudad Universitaria, Ciudad Universitaria, Coyoacan, Distrito
+            Federal C.P. 04510, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1205
+                     /organism="Opuntia lasiacantha"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:547104"
+     gene            <1..>1205
+                     /gene="rpl16"
+     misc_feature    <1103..>1205
+                     /gene="rpl16"
+                     /note="similar to ribosomal protein L16"
+ORIGIN      
+        1 gggcccnnna ngangaaaag tagagcccat agtatgaagt atgaactaat aactatagaa
+       61 ctaataacca actcatcgca tcacattatc tggatccaaa gaagcagtca agataggata
+      121 ttttggtcct atcattgcag caactgaatt ttttttttca taaacaagaa atcaaatgag
+      181 ttgtcaagca aaagaaaaaa aaaaagaaaa atatccttta aaggaggggg atgcggataa
+      241 atggaaaggc gaaagaaaga aaaaaatgaa tctaaatgat atacgattcc cctatgtaag
+      301 gtctttgaat catatcataa aagacaatgt aataaagcat gaatacagat tcccccataa
+      361 ttatctgata tgaatctatt cctagaaaaa agaaaaaagt aagagcctcc ggccaataaa
+      421 gactaagagg gttggctcaa gaacaaagtt cattaagggc tccattgtag aattcagacc
+      481 taatcattaa tcaagaggcg atgggaacga tgtaatccat gaatacagaa gattcaattg
+      541 aaaaagaatc ctaatgattc attgggaagg atggcggaac gaaccagaga ccaattcatc
+      601 tattctgaaa agtgataaac taatcctata aaactaaaat agatattgaa agagtaaata
+      661 ttcgcccgcg aaaattcctt ttttattaaa ttgctcacat tttattttag caatgcaatc
+      721 taataaaatc tatctataca aaaaaatata gacaaactat atatataata tatttcaaat
+      781 ttccttatat atcctaatat aaaaatatct aataaattag atgaatatca aagaatctat
+      841 tgatttagtg tattattaaa tgtatatctt aattcaatat tattattcta ttcattttta
+      901 ttattcattt ttattcattt tcaaatttag aatatattaa tctatatatt aatttataat
+      961 tctattctaa ttcgaattca atttttaaat attcatattc aattaaaatt gaaatttttt
+     1021 cattcgcgag gagccggatg agaagaaact ctcacgtccg gttctgtagt agaggtggaa
+     1081 ttaagaaaaa accatcaact ataaccccaa aagaaccaga ttctgtaaac aacatagagg
+     1141 aagaatgaag ggaatatctt atcgagggaa tcgtatttgt ttcggaagat agtnctngcn
+     1201 nggtg
+//
+
+LOCUS       HM041474                1163 bp    DNA     linear   PLN 03-MAY-2011
+DEFINITION  Opuntia helleri ribosomal protein L16-like (rpl16) gene, partial
+            sequence; chloroplast.
+ACCESSION   HM041474
+VERSION     HM041474.1
+KEYWORDS    .
+SOURCE      chloroplast Opuntia helleri
+  ORGANISM  Opuntia helleri
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Opuntia.
+REFERENCE   1  (bases 1 to 1163)
+  AUTHORS   Hernandez-Hernandez,T., Hernandez,H.M., De-Nova,J.A., Puente,R.,
+            Eguiarte,L.E. and Magallon,S.
+  TITLE     Phylogenetic relationships and evolution of growth form in
+            Cactaceae (Caryophyllales, Eudicotyledoneae)
+  JOURNAL   Am. J. Bot. 98 (1), 44-61 (2011)
+   PUBMED   21613084
+REFERENCE   2  (bases 1 to 1163)
+  AUTHORS   Hernandez-Hernandez,T., Magallon,S.A., Hernandez,H.M., De-Nova,A.,
+            Puente,R. and Eguiarte,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAR-2010) Departamento de Botanica, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, 3er Circuito de
+            Ciudad Universitaria, Ciudad Universitaria, Coyoacan, Distrito
+            Federal C.P. 04510, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1163
+                     /organism="Opuntia helleri"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1001115"
+     gene            <1..>1163
+                     /gene="rpl16"
+     misc_feature    <1081..>1163
+                     /gene="rpl16"
+                     /note="similar to ribosomal protein L16"
+ORIGIN      
+        1 gagcccatag tatgaagtat gaactaataa ctatagaact aataaccaac tcatcgcatc
+       61 acattatccg gatccaaaga agcagtcaag ataggatatt ttggtcctat cattgcagca
+      121 actgaatttt tttttcataa acaagaaatc aaatgagttg tcaagcaaaa gaaaaaaaaa
+      181 aaagaaaaat atacattaaa ggagggggat gcggataaat ggaaaggcga aagaaagaaa
+      241 aaaatgaatc taaatgatat acgattccnc tatgtaaggt ctttgaatca tatcataaaa
+      301 gacaatgtaa taaagcatga atacagattc acacataatt atctgatatg aatctattca
+      361 tagaaaaaag aaaaaagtaa gagcctccgg ccaataaaga ctaagagggt tggctcaaga
+      421 acaaagttca ttaagggctc cattgtagaa ttcagaccta atcattaatc aagaagcgat
+      481 gggaacgatg taatccatga atacagaaga ttcaattgaa aaagaatcct aatgattcat
+      541 tgggaaggat ggcggaacga accagagacc aattcatcta ttctgaaaag tgataaacta
+      601 atcctataaa actaaaatag atattgaaag agtaaatatt cgcccgcgaa aattcctttt
+      661 ttattaaatt gctcacattt tattttagca atgcaatcta ataaaatata tctatacaaa
+      721 aaaatataga caaactatat atataatata tttaaaattt ccttatatat cctaatataa
+      781 aaatatctaa taaattagat gaatatcaaa gaatctattg atttagtgta ttattaaatg
+      841 tatatcttaa ttcaatattt ttattctatt catttttatt attcattttt attcattttc
+      901 aaatttagaa tatattaatc tatatattaa tttagaattc tattctaatt cgaattcaat
+      961 ttttaaatat tcatattcaa ttaaaattga aattttttca ttcgcgagga gccggatgag
+     1021 aagaaactct cacgtccggt tctgtagtag aggtggaatt aagaaaaaac catcaactat
+     1081 aaccccaaaa gaaccagatt ctgtaaacaa catagaggaa gaatgaaggg aatatcttat
+     1141 cgggggaatc gtatttgttt cgg
+//
+
+LOCUS       HM041473                1203 bp    DNA     linear   PLN 03-MAY-2011
+DEFINITION  Opuntia excelsa ribosomal protein L16-like (rpl16) gene, partial
+            sequence; chloroplast.
+ACCESSION   HM041473
+VERSION     HM041473.1
+KEYWORDS    .
+SOURCE      chloroplast Opuntia excelsa
+  ORGANISM  Opuntia excelsa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Opuntia.
+REFERENCE   1  (bases 1 to 1203)
+  AUTHORS   Hernandez-Hernandez,T., Hernandez,H.M., De-Nova,J.A., Puente,R.,
+            Eguiarte,L.E. and Magallon,S.
+  TITLE     Phylogenetic relationships and evolution of growth form in
+            Cactaceae (Caryophyllales, Eudicotyledoneae)
+  JOURNAL   Am. J. Bot. 98 (1), 44-61 (2011)
+   PUBMED   21613084
+REFERENCE   2  (bases 1 to 1203)
+  AUTHORS   Hernandez-Hernandez,T., Magallon,S.A., Hernandez,H.M., De-Nova,A.,
+            Puente,R. and Eguiarte,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAR-2010) Departamento de Botanica, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, 3er Circuito de
+            Ciudad Universitaria, Ciudad Universitaria, Coyoacan, Distrito
+            Federal C.P. 04510, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1203
+                     /organism="Opuntia excelsa"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:867487"
+     gene            <1..>1203
+                     /gene="rpl16"
+     misc_feature    <1103..>1203
+                     /gene="rpl16"
+                     /note="similar to ribosomal protein L16"
+ORIGIN      
+        1 ccgnncnttg nnanacagaa nagtagagcc cnttntntga agtatgaact aatcactatt
+       61 gaactaatcc ccnactcatc gcatcacatt atctggatcc aaagaagcag tcaagatagg
+      121 atattttggt cctatcattg cagcaactga attttttttt tcctaaacaa gaaatcaaat
+      181 gagttgtcaa gcaaaagaaa aaaaagaaaa atatacatta aaggaggggg atgcggataa
+      241 atggaaaggc gaaagaaaga aaaaaatgaa tctaaatgat atacgattcc cctatgtaag
+      301 gtctttgaat catatcataa aagacaatgt aataaagcat gaatacagat tcccacataa
+      361 ttatctgata tgaatctatt catagaaaaa agaaaaaagt aagagcctcc ggccaataaa
+      421 gactaaaagg gttggctcaa gaacaaagtt cattaagggc tccattgtaa aattcagacc
+      481 taatcattaa tcaagaggcg atgggaacga tgtaatccat gaatacagaa gattcaattg
+      541 aaaaagaatc ctaatgattc attgggaagg atggcggaac gaaccagaga ccaattcatc
+      601 tattctgaaa agtgataaac taatcctata aaactaaaat agatattgaa agagtaaata
+      661 ttcgcccgcg aaaattcctt ttttattaaa ttgctcacat tttattttag caatgcaatc
+      721 taataaaatc tatctataca aaaaaatata gacaaactat atatataata tatttcaaat
+      781 ttccttatat atcctaatat aaaaatatct aataaattag atgaatatca aagaatctat
+      841 tgatttagtg tattattaaa tgtatatctt aattcaatat tattattcta ttcattttta
+      901 ttattcattt ttattcattt tcaaatttag aatatattaa tctatatatt aatttagaat
+      961 tctattctaa ttcgaattca atttttaaat attcatattc aattaaaatt gaaatttttt
+     1021 cattcgcgag gagccggatg agaagaaact ctcacgtccg gttctgtagt agaggtggaa
+     1081 ttaagaaaaa accatcaact ataaccccaa aagaaccaga ttctgtaaac aacatagagg
+     1141 aagaatgaag ggaatatctt atcgggggaa tcgtatngtg cnggctngtg cancgcgggc
+     1201 nng
+//
+
+LOCUS       HM041472                1182 bp    DNA     linear   PLN 03-MAY-2011
+DEFINITION  Opuntia echios ribosomal protein L16-like (rpl16) gene, partial
+            sequence; chloroplast.
+ACCESSION   HM041472
+VERSION     HM041472.1
+KEYWORDS    .
+SOURCE      chloroplast Opuntia echios
+  ORGANISM  Opuntia echios
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Opuntia.
+REFERENCE   1  (bases 1 to 1182)
+  AUTHORS   Hernandez-Hernandez,T., Hernandez,H.M., De-Nova,J.A., Puente,R.,
+            Eguiarte,L.E. and Magallon,S.
+  TITLE     Phylogenetic relationships and evolution of growth form in
+            Cactaceae (Caryophyllales, Eudicotyledoneae)
+  JOURNAL   Am. J. Bot. 98 (1), 44-61 (2011)
+   PUBMED   21613084
+REFERENCE   2  (bases 1 to 1182)
+  AUTHORS   Hernandez-Hernandez,T., Magallon,S.A., Hernandez,H.M., De-Nova,A.,
+            Puente,R. and Eguiarte,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAR-2010) Departamento de Botanica, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, 3er Circuito de
+            Ciudad Universitaria, Ciudad Universitaria, Coyoacan, Distrito
+            Federal C.P. 04510, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1182
+                     /organism="Opuntia echios"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:412453"
+     gene            <1..>1182
+                     /gene="rpl16"
+     misc_feature    <1085..>1182
+                     /gene="rpl16"
+                     /note="similar to ribosomal protein L16"
+ORIGIN      
+        1 gtaagagccc atagtatgaa gtatgaacta ataactatag aactaataac caactcatcg
+       61 catcacatta tccggatcca aagaagcagt caagatagga tattttggtc ctatcattgc
+      121 agcaactgaa tttttttttc ataaacaaga aatcaaatga gttgtcaagc aaaagaaaaa
+      181 aaaaaaaaaa aaatatacat taaaggaggg ggatgcggat aaatggaaag gcgaaagaaa
+      241 gaaaaaaatg aatctaaatg atatacgatt ccactatgta aggtctttga atcatatcat
+      301 aaaagacaat gtaataaagc atgaatacag attcacacat aattatctga tatgaatcta
+      361 ttcatagaaa aaagaaaaaa gtaagagcct ccggccaata aagactaaga ggttgggctc
+      421 aagaacaaag ttcattaagg gctccattgt agaattcaga cctaatcatt aatcaagaag
+      481 cgatgggaac gatgtaatcc atgaatacag aagattcaat tgaaaaagaa tcctaatgat
+      541 tcattgggaa ggatggcgga acgaaccaga gaccaattca tctattctga aaagtgataa
+      601 actaatccta taaaactaaa atagatattg aaagagtaaa tattcgcccg cgaaaattcc
+      661 ttttttatta aattgctcac attttatttt agcaatgcaa tctaataaaa tatatctata
+      721 caaaaaaata tagacaaact atatatataa tatatttcaa atttccttat atatcctaat
+      781 ataaaaatat ctaataaatt agatgaatat caaagaatct attgatttag tgtattatta
+      841 aatgtatatc ttaattcaat attattattc tattcatttt tattattcat ttttattcat
+      901 tttcaaattt agaatatatt aatctatata ttaatttaga attctattct aattcgaatt
+      961 caatttttaa atattcatat tcaattaaaa ttgaaatttt ttcattcgcg aggagccgga
+     1021 tgagaagaaa ctctcacgtc cggttctgta gtagaggtgg aattaagaaa aaaccatcaa
+     1081 ctataacccc aaaagaacca gattctgtaa acaacataga ggaagaatga agggaatatc
+     1141 ttatcggggg aatcgtattt gtttcggaag atggctacta ta
+//
+
+LOCUS       HM041469                1189 bp    DNA     linear   PLN 03-MAY-2011
+DEFINITION  Nopalea sp. THH-2011 ribosomal protein L16-like (rpl16) gene,
+            partial sequence; chloroplast.
+ACCESSION   HM041469
+VERSION     HM041469.1
+KEYWORDS    .
+SOURCE      chloroplast Opuntia sp. THH-2011
+  ORGANISM  Opuntia sp. THH-2011
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Opuntia; unclassified Opuntia.
+REFERENCE   1  (bases 1 to 1189)
+  AUTHORS   Hernandez-Hernandez,T., Hernandez,H.M., De-Nova,J.A., Puente,R.,
+            Eguiarte,L.E. and Magallon,S.
+  TITLE     Phylogenetic relationships and evolution of growth form in
+            Cactaceae (Caryophyllales, Eudicotyledoneae)
+  JOURNAL   Am. J. Bot. 98 (1), 44-61 (2011)
+   PUBMED   21613084
+REFERENCE   2  (bases 1 to 1189)
+  AUTHORS   Hernandez-Hernandez,T., Magallon,S.A., Hernandez,H.M., De-Nova,A.,
+            Puente,R. and Eguiarte,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAR-2010) Departamento de Botanica, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, 3er Circuito de
+            Ciudad Universitaria, Ciudad Universitaria, Coyoacan, Distrito
+            Federal C.P. 04510, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1189
+                     /organism="Opuntia sp. THH-2011"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1001114"
+     gene            <1..>1189
+                     /gene="rpl16"
+     misc_feature    <1096..>1189
+                     /gene="rpl16"
+                     /note="similar to ribosomal protein L16"
+ORIGIN      
+        1 atatacgaaa aagtagagcc catagtatga agtatgaact aataactata gaactaataa
+       61 ccaactcatc gcatcacatt atctggatcc aaagaagcag tcaagatagg atattttggt
+      121 cctatcattg cagcaactga attttttttt cataaacaag aaatcaaatg agttgtcaag
+      181 caaaagaaaa aaaaaaaaga aaaatatact ttaagggagg gggatgcgga taaatggaaa
+      241 ggcgaaagaa agaaaaaaat gaatctaaat gatatacgat tccactatgt aaggtctttg
+      301 aatcatatca taaaagacaa tgtaataaag catgaataca gattcacaca taattatctg
+      361 gtatgaatct attcatagaa aaaagaaaaa agtaagaccc tccggccaat aaagactaag
+      421 agggttggct caagaacaaa gttcattaag ggctccattg tagaattcag acctaatcat
+      481 taatcaagaa gcgatgggaa cgatgtaatc catgaataca gaagattcaa ttgaaaaaga
+      541 atcctaatga ttcattggga aggatggcgg aacgaaccag agaccaattc atctattctg
+      601 aaaagtgata aactaatcct ataaaactaa aatagatatt gaaagagtaa atattcgccc
+      661 gcgaaaattc cttttttatt aaattgctca cattttattt tagcaatgca atctaataaa
+      721 atatatctat acaaaaaaat atagacaaac tatatatata atatatttca aatttcctta
+      781 tatatcctaa tataaaaata tctaataaat tagatgaata tcaaagaatc tattgattta
+      841 gtgtattatt aaatgtatat cttaattcaa tattattatt ctattcattt ttattattca
+      901 tttttattca ttttcaaatt tagaatatat taatctatat attaatttag aattctattc
+      961 taattcgaat tcaattttta aatattcata ttcaattaaa attgaaattt tttcattcgc
+     1021 gaggagccgg atgagaagaa actctcacgt ccggttctgt agtagaggtg gaattaagaa
+     1081 aaaaccatca actataaccc caaaagaacc agattctgta aacaacatag aggaagaatg
+     1141 aagggaatat cttatcgggg gaatcgtatt tgtttcggaa gatatgctc
+//
+
+LOCUS       HM041468                1202 bp    DNA     linear   PLN 03-MAY-2011
+DEFINITION  Nopalea lutea ribosomal protein L16-like (rpl16) gene, partial
+            sequence; chloroplast.
+ACCESSION   HM041468
+VERSION     HM041468.1
+KEYWORDS    .
+SOURCE      chloroplast Opuntia lutea
+  ORGANISM  Opuntia lutea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Opuntia.
+REFERENCE   1  (bases 1 to 1202)
+  AUTHORS   Hernandez-Hernandez,T., Hernandez,H.M., De-Nova,J.A., Puente,R.,
+            Eguiarte,L.E. and Magallon,S.
+  TITLE     Phylogenetic relationships and evolution of growth form in
+            Cactaceae (Caryophyllales, Eudicotyledoneae)
+  JOURNAL   Am. J. Bot. 98 (1), 44-61 (2011)
+   PUBMED   21613084
+REFERENCE   2  (bases 1 to 1202)
+  AUTHORS   Hernandez-Hernandez,T., Magallon,S.A., Hernandez,H.M., De-Nova,A.,
+            Puente,R. and Eguiarte,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAR-2010) Departamento de Botanica, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, 3er Circuito de
+            Ciudad Universitaria, Ciudad Universitaria, Coyoacan, Distrito
+            Federal C.P. 04510, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1202
+                     /organism="Opuntia lutea"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1001113"
+     gene            <1..>1202
+                     /gene="rpl16"
+     misc_feature    <1099..>1202
+                     /gene="rpl16"
+                     /note="similar to ribosomal protein L16"
+ORIGIN      
+        1 gatatacgaa aaagtaagag cccatagtat gaagtatgaa ctaataacta tagaactaat
+       61 aaccaactca tcgcatcaca ttatctggat ccaaagaagc agtcaagata ggatattttg
+      121 gtcctatcat tgcagcaact gaattttttt ttcataaaca agaaatcaaa tgagttgtca
+      181 agcaaaagaa aaaaaaaaaa gaaaaatata ctttaaggga gggggatgcg gataaatgga
+      241 aaggcgaaag aaagaaaaaa atgaatctaa atgatatacg attcccccta tgtaaggtct
+      301 ttgaatcata tcataaaaga caatgtaata aagcatgaat acagattcac acataattat
+      361 ctgatatgaa tctattcata gaaaaaagaa aaaagtaaga ccctccggcc aataaagact
+      421 aagagggttg gctcaagaac aaagttcatt aagggctcca ttgtagaatt cagacctaat
+      481 cattaatcaa gaagcgatgg gaacgatgta atccatgaat acagaagatt caattgaaaa
+      541 agaatcctaa tgattcattg ggaaggatgg cggaacgaac cagagaccaa ttcatctatt
+      601 ctgaaaagtg ataaactaat cctataaaac taaaatagat attgaaagag taaatattcg
+      661 cccgcgaaaa ttcctttttt attaaattgc tcacatttta ttttagcaat gcaatctaat
+      721 aaaatatatc tatacaaaaa aatatagaca aactatatat ataatatatt tcaaatttcc
+      781 ttatatatcc taatataaaa atatctaata aattagatga atatcaaaga atctattgat
+      841 ttagtgtatt attaaatgta tatcttaatt caatattatt attctattca tttttattat
+      901 tcatttttat tcattttcaa atttagaata tattaatcta tatattaatt tagaattcta
+      961 ttctaattcg aattcaattt ttaaatattc atattcaatt aaaattgaaa ttttttcatt
+     1021 cgcgaggagc cggatgagaa gaaactctca cgtccggttc tgtagtagag gtggaattaa
+     1081 gaaaaaacca tcaactataa ccccaaaaga accagattct gtaaacaaca tagaggaaga
+     1141 atgaagggaa tatcttatcg ggggaatcgt atttgtttcg gaagatatgc tctcaggcac
+     1201 ga
+//
+
+LOCUS       HM041467                1199 bp    DNA     linear   PLN 03-MAY-2011
+DEFINITION  Nopalea karwinskiana ribosomal protein L16-like (rpl16) gene,
+            partial sequence; chloroplast.
+ACCESSION   HM041467
+VERSION     HM041467.1
+KEYWORDS    .
+SOURCE      chloroplast Opuntia karwinskiana
+  ORGANISM  Opuntia karwinskiana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Opuntia.
+REFERENCE   1  (bases 1 to 1199)
+  AUTHORS   Hernandez-Hernandez,T., Hernandez,H.M., De-Nova,J.A., Puente,R.,
+            Eguiarte,L.E. and Magallon,S.
+  TITLE     Phylogenetic relationships and evolution of growth form in
+            Cactaceae (Caryophyllales, Eudicotyledoneae)
+  JOURNAL   Am. J. Bot. 98 (1), 44-61 (2011)
+   PUBMED   21613084
+REFERENCE   2  (bases 1 to 1199)
+  AUTHORS   Hernandez-Hernandez,T., Magallon,S.A., Hernandez,H.M., De-Nova,A.,
+            Puente,R. and Eguiarte,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAR-2010) Departamento de Botanica, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, 3er Circuito de
+            Ciudad Universitaria, Ciudad Universitaria, Coyoacan, Distrito
+            Federal C.P. 04510, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1199
+                     /organism="Opuntia karwinskiana"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1001112"
+     gene            <1..>1199
+                     /gene="rpl16"
+     misc_feature    <1098..>1199
+                     /gene="rpl16"
+                     /note="similar to ribosomal protein L16"
+ORIGIN      
+        1 gtgatatcga aaaagtagag cccatagtat gaagtatgaa ctaataacta tagaactaat
+       61 aaccaactca tcgcatcaca ttatctggat ccaaagaagc agtcaagata ggatattttg
+      121 gtcctatcat tgcagcaact gaattttttt ttcataaaca agaaatcaaa tgagttgtca
+      181 agcaaaagaa aaaaaaaaaa gaaaaattta ctttaaggga gggggatgcg gataaatgga
+      241 aaggcgaaag aaagaaaaaa atgaatctaa atgatatacg attcccctat gtagggtctt
+      301 tgaatcatat cataaaaaac aatgtaataa agcatgaata cagattcccc cataattatc
+      361 tggtatgaat cttttcatag aaaaaaaaaa aaagtaagag cctccggcca ataaaaacta
+      421 aaagggttgg ctcaagaaca aagttcatta agggctccat tgtagaattc agacctaatc
+      481 nttaatcaag aagcgatggg aacgatgtaa tccatgaata cagaagattc aattgaaaaa
+      541 gaatcctaat gattcattgg gaaggatggc ggaacgaacc agagaccaat tcatctattc
+      601 tgaaaagtga taaactaatc ctataaaact aaaatagata ttgaaagagt aaatattcgc
+      661 ccgcgaaaat tcctttttta ttaaattgct cacattttat tttagcaatg caatctaata
+      721 aaatatatct atacaaaaaa atatagacaa actatatata taatatattt caaatttcct
+      781 tatatatcct aatataaaaa tatctaataa attagatgaa tatcaaagaa tctattgatt
+      841 tagtgtatta ttaaatgtat atcttaattc aatattatta ttctattcat ttttattatt
+      901 catttttatt cattttcaaa tttagaatat attaatctat atattaattt agaattctat
+      961 tctaattcga attcaatttt taaatattca tattcaatta aaattgaaat tttttcattc
+     1021 gcgaggagcc ggatgagaag aaactctcac gtccggttct gtagtagagg tggaattaag
+     1081 aaaaaaccat caactataac cccaaaagaa ccagattctg taaacaacat agaggaagaa
+     1141 tgaagggaat atcttatgcg ggggaatcgt attgtttcgg aagatatgct ctgcggccc
+//
+
+LOCUS       HM041466                1205 bp    DNA     linear   PLN 03-MAY-2011
+DEFINITION  Nopalea gaumeri ribosomal protein L16-like (rpl16) gene, partial
+            sequence; chloroplast.
+ACCESSION   HM041466
+VERSION     HM041466.1
+KEYWORDS    .
+SOURCE      chloroplast Opuntia gaumeri
+  ORGANISM  Opuntia gaumeri
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Opuntia.
+REFERENCE   1  (bases 1 to 1205)
+  AUTHORS   Hernandez-Hernandez,T., Hernandez,H.M., De-Nova,J.A., Puente,R.,
+            Eguiarte,L.E. and Magallon,S.
+  TITLE     Phylogenetic relationships and evolution of growth form in
+            Cactaceae (Caryophyllales, Eudicotyledoneae)
+  JOURNAL   Am. J. Bot. 98 (1), 44-61 (2011)
+   PUBMED   21613084
+REFERENCE   2  (bases 1 to 1205)
+  AUTHORS   Hernandez-Hernandez,T., Magallon,S.A., Hernandez,H.M., De-Nova,A.,
+            Puente,R. and Eguiarte,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAR-2010) Departamento de Botanica, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, 3er Circuito de
+            Ciudad Universitaria, Ciudad Universitaria, Coyoacan, Distrito
+            Federal C.P. 04510, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1205
+                     /organism="Opuntia gaumeri"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1001111"
+     gene            <1..>1205
+                     /gene="rpl16"
+     misc_feature    <1103..>1205
+                     /gene="rpl16"
+                     /note="similar to ribosomal protein L16"
+ORIGIN      
+        1 gctgtgatat acgaaanagt aagagcccat agtatgaagt atgaactaat aactatagaa
+       61 ctaataacca actcatcgca tcacattatc tggatccaaa gaagcagtca agataggata
+      121 ttttggtcct atcattgcag caactgaatt tttttttcat aaacaagaaa tcaaatgagt
+      181 tgtcaagcaa aagaaaaaaa aaaaaaaaaa tatacattaa aggaggggga tgcggataaa
+      241 tggaaaggcg aaagaaagaa aaaaatgaat ctaaatgata tacgattcca ctatgtaagg
+      301 tctttgaatc atatcataaa agacaatgta ataaagcatg aatacagatt cacacataat
+      361 tatctgaata tgaatctatt catagaaaaa agaaaaaagt aagaccctcc ggccaataaa
+      421 gactaaaggg gttggctcaa gaacaaagtt cattaagggc tccattgtag aattcagacc
+      481 taatcattaa tcaagaagcg atgggaacga tgtaatccat gaatacagaa gattcaattg
+      541 aaaaagaatc ctaatgattc attgggaagg atggcggaac gaaccagaga ccaattcatc
+      601 tattctgaaa agtgataaac taatcctata aaactaaaat agatattgaa agagtaaata
+      661 ttcgcccgcg aaaattcctt ttttattaaa ttgctcacat tttattttag caatgcaatc
+      721 taataaaata tatctataca aaaaaatata gacaaactat atatataata tatttcaaat
+      781 ttccttatat atcctaatat aaaaatatct aataaattag atgaatatca aagaatctat
+      841 tgatttagtg tattattaaa tgtatatctt aattcaatat tattattcta ttcattttta
+      901 ttattcattt ttattcattt tcaaatttag aatatattaa tctatatatt aatttagaat
+      961 tctattctaa ttcgaattca atttttaaat attcatattc aattaaaatt gaaatttttt
+     1021 cattcgcgag gagccggatg agaagaaact ctcacgtccg gttctgtagt agaggtggaa
+     1081 ttaagaaaaa accatcaact ataaccccaa aagaaccaga ttctgtaaac aacatagagg
+     1141 aagaatgaag ggaatatctt atcgggggaa tcgtatttgt ttcggaagat atgctctcag
+     1201 cacga
+//
+
+LOCUS       HM041465                1190 bp    DNA     linear   PLN 03-MAY-2011
+DEFINITION  Nopalea dejecta ribosomal protein L16-like (rpl16) gene, partial
+            sequence; chloroplast.
+ACCESSION   HM041465
+VERSION     HM041465.1
+KEYWORDS    .
+SOURCE      chloroplast Opuntia dejecta
+  ORGANISM  Opuntia dejecta
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Opuntia.
+REFERENCE   1  (bases 1 to 1190)
+  AUTHORS   Hernandez-Hernandez,T., Hernandez,H.M., De-Nova,J.A., Puente,R.,
+            Eguiarte,L.E. and Magallon,S.
+  TITLE     Phylogenetic relationships and evolution of growth form in
+            Cactaceae (Caryophyllales, Eudicotyledoneae)
+  JOURNAL   Am. J. Bot. 98 (1), 44-61 (2011)
+   PUBMED   21613084
+REFERENCE   2  (bases 1 to 1190)
+  AUTHORS   Hernandez-Hernandez,T., Magallon,S.A., Hernandez,H.M., De-Nova,A.,
+            Puente,R. and Eguiarte,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAR-2010) Departamento de Botanica, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, 3er Circuito de
+            Ciudad Universitaria, Ciudad Universitaria, Coyoacan, Distrito
+            Federal C.P. 04510, Mexico
+FEATURES             Location/Qualifiers
+     source          1..1190
+                     /organism="Opuntia dejecta"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1001110"
+     gene            <1..>1190
+                     /gene="rpl16"
+     misc_feature    <1096..>1190
+                     /gene="rpl16"
+                     /note="similar to ribosomal protein L16"
+ORIGIN      
+        1 tgatatacga aanagtaaga gcccatagta tgaagtatga actaataact atagaactaa
+       61 taaccaactc atcgcatcac attatctgga tccaaagaag cagtcaagat aggatatttt
+      121 ggtcctatca ttgcagcaac tgaatttttt tttcataaac aagaaatcaa atgagttgtc
+      181 aagcaaaaga aaaaaaaaaa aaaaaatata ctttaangga gggggatgcg gataaatgga
+      241 aaggcgaaag aaagaaaaaa atgaatctaa atgatatacg attccactat gtaaggtctt
+      301 tgaatcatat cataaaagac aatgtaataa agcatgaata cagattcaca cataattatc
+      361 tgtatgatct attcatagaa aaaagaaaaa agtaagagcc tccggccaat aaagactaag
+      421 agggttggct caagaacaaa gttcattaag ggctccattg tagaattcag acctaatcat
+      481 taatcaagaa gcgatgggaa cgatgtaatc catgaataca gaagattcaa ttgaaaaaga
+      541 atcctaatga ttcattggga aggatggcgg aacgaaccag agaccaattc atctattctg
+      601 aaaagtgata aactaatcct ataaaactaa aatagatatt gaaagagtaa atattcgccc
+      661 gcgaaaattc cttttttatt aaattgctca cattttattt tagcaatgca atctaataaa
+      721 atatatctat acaaaaaaat atagacaaac tatatatata atatatttca aatttcctta
+      781 tatatcctaa tataaaaata tctaataaat tagatgaata tcaaagaatc tattgattta
+      841 gtgtattatt aaatgtatat cttaattcaa tattattatt ctattcattt ttattattca
+      901 tttttattca ttttcaaatt tagaatatat taatctatat attaatttag aattctattc
+      961 taattcgaat tcaattttta aatattcata ttcaattaaa attgaaattt tttcattcgc
+     1021 gaggagccgg atgagaagaa actctcacgt ccggttctgt agtagaggtg gaattaagaa
+     1081 aaaaccatca actataaccc caaaagaacc agattctgta aacaacatag aggaagaatg
+     1141 aagggaatat cttatcgggg gaatcgtatt tgtttcggaa gatatgctct
+//
+
+LOCUS       AY851612                 892 bp    DNA     linear   PLN 10-APR-2007
+DEFINITION  Opuntia subulata rpl16 gene, intron; chloroplast.
+ACCESSION   AY851612
+VERSION     AY851612.1
+KEYWORDS    .
+SOURCE      chloroplast Austrocylindropuntia subulata
+  ORGANISM  Austrocylindropuntia subulata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Austrocylindropuntia.
+REFERENCE   1  (bases 1 to 892)
+  AUTHORS   Butterworth,C.A. and Wallace,R.S.
+  TITLE     Molecular Phylogenetics of the Leafy Cactus Genus Pereskia
+            (Cactaceae)
+  JOURNAL   Syst. Bot. 30 (4), 800-808 (2005)
+REFERENCE   2  (bases 1 to 892)
+  AUTHORS   Butterworth,C.A. and Wallace,R.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2004) Desert Botanical Garden, 1201 North Galvin
+            Parkway, Phoenix, AZ 85008, USA
+FEATURES             Location/Qualifiers
+     source          1..892
+                     /organism="Austrocylindropuntia subulata"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:106982"
+     gene            <1..>892
+                     /gene="rpl16"
+     intron          <1..>892
+                     /gene="rpl16"
+ORIGIN      
+        1 cattaaagaa gggggatgcg gataaatgga aaggcgaaag aaagaaaaaa atgaatctaa
+       61 atgatatacg attccactat gtaaggtctt tgaatcatat cataaaagac aatgtaataa
+      121 agcatgaata cagattcaca cataattatc tgatatgaat ctattcatag aaaaaagaaa
+      181 aaagtaagag cctccggcca ataaagacta agagggttgg ctcaagaaca aagttcatta
+      241 agagctccat tgtagaattc agacctaatc attaatcaag aagcgatggg aacgatgtaa
+      301 tccatgaata cagaagattc aattgaaaaa gatcctaatg atcattggga aggatggcgg
+      361 aacgaaccag agaccaattc atctattctg aaaagtgata aactaatcct ataaaactaa
+      421 aatagatatt gaaagagtaa atattcgccc gcgaaaattc cttttttatt aaattgctca
+      481 tattttattt tagcaatgca atctaataaa atatatctat acaaaaaaat atagacaaac
+      541 tatatatata taatatattt caaatttcct tatataccca aatataaaaa tatctaataa
+      601 attagatgaa tatcaaagaa tctattgatt tagtgtatta ttaaatgtat atcttaattc
+      661 aatattatta ttctattcat ttttattcat tttcaaattt ataatatatt aatctatata
+      721 ttaatttata attctattct aattcgaatt caatttttaa atattcatat tcaattaaaa
+      781 ttgaaatttt ttcattcgcg aggagccgga tgagaagaaa ctctcatgtc cggttctgta
+      841 gtagagatgg aattaagaaa aaaccatcaa ctataacccc aagagaacca ga
+//
+
+LOCUS       AY851611                 881 bp    DNA     linear   PLN 10-APR-2007
+DEFINITION  Opuntia polyacantha rpl16 gene, intron; chloroplast.
+ACCESSION   AY851611
+VERSION     AY851611.1
+KEYWORDS    .
+SOURCE      chloroplast Opuntia polyacantha
+  ORGANISM  Opuntia polyacantha
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Opuntia.
+REFERENCE   1  (bases 1 to 881)
+  AUTHORS   Butterworth,C.A. and Wallace,R.S.
+  TITLE     Molecular Phylogenetics of the Leafy Cactus Genus Pereskia
+            (Cactaceae)
+  JOURNAL   Syst. Bot. 30 (4), 800-808 (2005)
+REFERENCE   2  (bases 1 to 881)
+  AUTHORS   Butterworth,C.A. and Wallace,R.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2004) Desert Botanical Garden, 1201 North Galvin
+            Parkway, Phoenix, AZ 85008, USA
+FEATURES             Location/Qualifiers
+     source          1..881
+                     /organism="Opuntia polyacantha"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:307728"
+     gene            <1..>881
+                     /gene="rpl16"
+     intron          <1..>881
+                     /gene="rpl16"
+ORIGIN      
+        1 cattaaagga gggggatgcg gataaatgga aaggcgaaag aaagaaaaaa atgaatctaa
+       61 atgatatacg attccactat gtaaggtctt tgaatcatat cataaaagac aatgtaataa
+      121 agcatgaata cagattcaca cataattatc tgatatgaat ctattcatag aaaaaagaaa
+      181 aaagtaagag cctccggcca ataaagacta agagggttgg ctcaagaaca aagttcatta
+      241 agggctccat tgtagaattc agacctaatc attaatcaag aagcgatggg aacgatgtaa
+      301 tccatgaata cagaagattc aattgaaaaa gatcctaatg atcattggga aggatggcgg
+      361 aacgaaccag agaccaattc atctattctg aaaagtgata aactaatcct ataaaactaa
+      421 aatagatatt gaaagagtaa atattcgccc gcgaaaattc cttttttatt aaattgctca
+      481 cattttattt tagcaatgca atctaataaa atatatctat acaaaaaaat atagacaaac
+      541 tctatatata atatatttca aatttcctta tatatcctaa tataaaaata tctaataaat
+      601 tagatgaata tcaaagaatc tattgattta gtgtattatt aaatgtatat cttaattcaa
+      661 tattattatt ctattcattt tcaaatttag aatatattaa tctatatatt aatttagaat
+      721 tctattctaa ttcgaattca atttttaaat attcatattc aattaaaatt gaaatttttt
+      781 cattcgcgag gagccggatg agaagaaact ctcacgtccg gttactgtag tagaggtgga
+      841 attaagaaaa aaccatcaac tataacccca aaagaaccag a
+//
+
+LOCUS       AF191661                 895 bp    DNA     linear   PLN 07-NOV-1999
+DEFINITION  Opuntia kuehnrichiana rpl16 gene; chloroplast gene for chloroplast
+            product, partial intron sequence.
+ACCESSION   AF191661
+VERSION     AF191661.1
+KEYWORDS    .
+SOURCE      chloroplast Cumulopuntia sphaerica
+  ORGANISM  Cumulopuntia sphaerica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Cumulopuntia.
+REFERENCE   1  (bases 1 to 895)
+  AUTHORS   Dickie,S.L. and Wallace,R.S.
+  TITLE     Phylogeny of the subfamily Opuntioideae (Cactaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 895)
+  AUTHORS   Dickie,S.L. and Wallace,R.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-SEP-1999) Botany, Iowa State University, 353 Bessey
+            Hall, Ames, IA 50011-1020, USA
+FEATURES             Location/Qualifiers
+     source          1..895
+                     /organism="Cumulopuntia sphaerica"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:106979"
+                     /note="subfamily Opuntioideae; synonym: Cumulopuntia
+                     kuenrichiana"
+     gene            <1..>895
+                     /gene="rpl16"
+     intron          <1..>895
+                     /gene="rpl16"
+ORIGIN      
+        1 tatacattaa agaaggggga tgcggataaa tggaaaggcg aaagaaagaa aaaaatgaat
+       61 ctaaatgata tacgattcca ctatgtaagg tctttgaatc atatcataaa agacaatgta
+      121 ataaagcatg aatacagatt cacacataat tatctgatat gaatctattc atagaaaaaa
+      181 gaaaaaagta agagcctccg gccaataaag actaagaggg ttggctcaag aacaaagttc
+      241 attaagagct ccattgtaga attcagacct aatcattaat caagaagcga tgggaacgat
+      301 gtaatccatg aatacagaag attcaattga aaaagatcct atgatccatt gggaaggatg
+      361 gcggaacgaa ccagagacca attcatctat tctgaaaagt gataaactaa tcctataaaa
+      421 ctaaaataga tattgaaaga gtaaatattc gcccgcgaaa attccttttt tttttaaatt
+      481 gctcatattt tattttagca atgcaatcta ataaaatata tctatacaaa aaaataaaga
+      541 caaactatat atataatata tttcaaattt ccttatatat ccaaatataa aaatatctaa
+      601 taaattagat gaatatcaaa gaatctattg atttagtgta ttattaaatg tatatcttaa
+      661 ttcaatatta ttattctatt catttttatt cattttcaat tttataatat attaatctat
+      721 atattaattt ataattctat tctaattcga attcaatttt taaatattca tattcaatta
+      781 aaattgaaat tttttcattc gcgaggagcc ggatgagaag aaactctcat gtccggttct
+      841 gtagtagaga tggaattaag aaaaaaccat caactataac cccaagagaa ccaga
+//
+
+LOCUS       AF191665                 902 bp    DNA     linear   PLN 07-NOV-1999
+DEFINITION  Opuntia marenae rpl16 gene; chloroplast gene for chloroplast
+            product, partial intron sequence.
+ACCESSION   AF191665
+VERSION     AF191665.1
+KEYWORDS    .
+SOURCE      chloroplast Grusonia marenae
+  ORGANISM  Grusonia marenae
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Opuntioideae;
+            Grusonia.
+REFERENCE   1  (bases 1 to 902)
+  AUTHORS   Dickie,S.L. and Wallace,R.S.
+  TITLE     Phylogeny of the subfamily Opuntioideae (Cactaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 902)
+  AUTHORS   Dickie,S.L. and Wallace,R.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-SEP-1999) Botany, Iowa State University, 353 Bessey
+            Hall, Ames, IA 50011-1020, USA
+FEATURES             Location/Qualifiers
+     source          1..902
+                     /organism="Grusonia marenae"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:106980"
+                     /note="subfamily Opuntioideae; synonym: Marenopuntia
+                     marenae, Grusonia marenae"
+     gene            <1..>902
+                     /gene="rpl16"
+     intron          <1..>902
+                     /gene="rpl16"
+ORIGIN      
+        1 tatacattaa aggaggggga tgcggataaa tggaaaggcg aaagaaagaa aaaaatgaat
+       61 ctaaatgata taggattcca ctatgtaagg tctttgaatc atatcataaa agacaatgta
+      121 ataaagcatg aatacagatt cacacataat tatctgatat gaatctattc atagaaaaaa
+      181 gaaaaaagta agagcctccg gccaataaag actaagaggg ttggctcaag aacaaagttc
+      241 attaagagct ccattgtaga attcagacct aatcattaat caagaagcga tgggaacgat
+      301 gtaatccatg aatacagaag attcaattga aaaagatcct atgntcattg gaaggatggc
+      361 ggaacgaacc agagaccaat tcatctattc tgaaaagtga taaactaatc ctataaaact
+      421 aaaatagata ttgaaagagt aaatattcgc ccgcgaaaat tcctttttta ttaaattgct
+      481 catattttct tttagcaatg caatctaata aaatatatct atacaaaaaa acatagacaa
+      541 actatatata tatatatata taatatattt caaattccct tatatatcca aatataaaaa
+      601 tatctaataa attagatgaa tatcaaagaa tctattgatt tagtgtatta ttaaatgtat
+      661 atattaattc aatattatta ttctattcat ttttattcat tttcaaattt ataatatatt
+      721 aatctatata ttaatttaga attctattct aattcgaatt caatttttaa atattcatat
+      781 tcaattaaaa ttgaaatttt ttcattcgcg aggagccgga tgagaagaaa ctctcatgtc
+      841 cggttctgta gtagagatgg aattaagaaa aaaccatcaa ctataacccc aaaagaacca
+      901 ga
+//
+
+
